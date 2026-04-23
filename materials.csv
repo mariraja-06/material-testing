@@ -1,0 +1,1001 @@
+Material,Category,Strength (MPa),Density (kg/m3),Max Temp (C),Cost (Rs/kg)
+Carbon Fiber Grade-2,Carbon Fiber,7418.35,3055.27,741.57,352.36
+Vanadium Grade-6,Vanadium,5909.43,1095.31,514.7,736.35
+Carbon Nanotubes Grade-2,Carbon Nanotubes,5617.28,7388.23,3521.86,1287.58
+Composite Grade-38,Composite,2789.85,8797.96,3806.34,520.99
+Rubber Grade-22,Rubber,2786.66,2783.24,3829.53,351.52
+PVC Grade-7,PVC,3596.85,3966.36,1360.11,178.18
+Metal Matrix Grade-35,Metal Matrix,1257.89,9285.35,440.98,914.88
+Nylon Grade-37,Nylon,1931.77,1442.7,3323.59,2330.55
+Brass Grade-15,Brass,8666.31,4299.02,2294.93,2510.63
+CFRP Grade-24,CFRP,3559.8,6966.6,3524.31,2066.47
+Copper Grade-39,Copper,6353.8,5715.48,1262.57,1413.67
+Ceramic Grade-41,Ceramic,6885.05,2822.8,1655.88,2316.53
+Nickel Grade-15,Nickel,8219.99,8207.01,2036.36,245.26
+Quartz Grade-46,Quartz,3154.32,6831.07,2008.98,2747.92
+Metal Matrix Grade-10,Metal Matrix,2656.89,3071.23,2829.21,825.09
+Graphene Grade-28,Graphene,8979.35,4476.29,1136.42,2992.74
+Molybdenum Grade-32,Molybdenum,919.09,1236.33,593.65,1900.97
+Rubber Grade-39,Rubber,645.58,4312.75,4980.8,1610.89
+Glass Grade-1,Glass,6806.35,1856.53,4429.82,2265.09
+Polymer Grade-8,Polymer,2942.77,2257.58,67.06,2180.17
+Cast Iron Grade-33,Cast Iron,7622.24,5472.15,577.63,1894.64
+Molybdenum Grade-39,Molybdenum,1997.92,4241.89,850.51,2862.82
+Chromium Grade-1,Chromium,5993.86,5296.71,604.63,1120.79
+Alumina Grade-16,Alumina,589.61,8878.05,4737.45,302.68
+Tungsten Grade-5,Tungsten,9780.09,5702.3,673.39,1996.26
+Glass Grade-11,Glass,2658.65,8826.77,2145.11,674.8
+Vanadium Grade-49,Vanadium,7302.28,2652.99,1593.68,2985.69
+Nylon Grade-29,Nylon,8997.25,4955.32,1277.88,238.88
+Aluminum Grade-38,Aluminum,5544.12,6214.88,86.59,2138.13
+Copper Grade-3,Copper,8597.9,1454.68,1228.88,2023.48
+Aluminum Alloy Grade-35,Aluminum Alloy,1332.66,9406.92,2877.09,1444.38
+Ceramic Matrix Grade-27,Ceramic Matrix,1913.0,1694.47,2184.27,1299.56
+Metal Matrix Grade-47,Metal Matrix,552.12,6812.83,3248.94,228.81
+Polymer Grade-7,Polymer,2494.83,2552.35,2271.19,1294.55
+Ceramic Grade-30,Ceramic,2506.32,9294.27,2244.05,2590.98
+Glass Grade-7,Glass,516.33,9993.4,4188.5,2908.54
+Stainless Steel Grade-11,Stainless Steel,4070.67,5230.05,4330.15,2712.21
+CFRP Grade-25,CFRP,32.53,4393.71,4636.34,2366.13
+Zirconia Grade-28,Zirconia,6969.25,7521.46,3927.86,2002.52
+Tungsten Grade-10,Tungsten,1907.89,2805.2,340.43,2220.42
+Nickel Grade-48,Nickel,3143.6,1264.16,2410.63,2762.19
+Chromium Grade-11,Chromium,579.17,5473.5,4264.29,252.14
+Copper Grade-44,Copper,8619.71,4516.52,4710.96,1730.54
+Graphene Grade-39,Graphene,407.98,1557.0,3304.34,1717.42
+Silicon Carbide Grade-17,Silicon Carbide,2051.35,7389.82,1232.26,1217.57
+Alumina Grade-30,Alumina,3169.29,7717.9,410.02,1401.94
+Quartz Grade-7,Quartz,742.8,2763.38,1363.48,2803.12
+Copper Grade-16,Copper,3702.21,2253.8,4177.2,2125.44
+Glass Grade-20,Glass,9318.31,1755.69,4396.85,830.17
+Bronze Grade-48,Bronze,5537.15,3307.79,3044.3,2166.96
+Aluminum Alloy Grade-44,Aluminum Alloy,6346.4,3230.86,2468.74,2720.74
+Nickel Grade-6,Nickel,6346.87,8430.51,269.19,1033.99
+Aramid Grade-41,Aramid,9798.2,2289.07,2237.64,2131.72
+Carbon Fiber Grade-5,Carbon Fiber,9451.11,7158.31,788.67,156.28
+Nylon Grade-38,Nylon,5530.17,4755.75,258.01,1125.72
+Titanium Grade-23,Titanium,2109.45,3097.93,559.73,2351.34
+HDPE Grade-40,HDPE,7497.53,9317.25,1222.61,529.38
+GFRP Grade-27,GFRP,258.59,7577.18,1694.99,2795.91
+Stainless Steel Grade-18,Stainless Steel,1601.23,7252.66,1944.2,164.24
+Ceramic Matrix Grade-15,Ceramic Matrix,2004.53,9250.0,1781.46,2470.58
+Steel Alloy Grade-15,Steel Alloy,247.38,2579.21,1675.57,2599.84
+Ceramic Grade-23,Ceramic,6418.76,4478.84,4906.71,1631.84
+Aluminum Grade-8,Aluminum,8771.74,3205.4,2924.34,2951.47
+Titanium Grade-7,Titanium,5970.15,3982.28,3943.03,1337.36
+Molybdenum Grade-8,Molybdenum,3858.72,6105.88,1311.62,2140.92
+Steel Grade-34,Steel,9256.57,5755.14,3611.46,2238.75
+Epoxy Grade-24,Epoxy,4319.23,9529.8,4607.89,1888.31
+Carbon Fiber Grade-47,Carbon Fiber,9001.57,5467.01,3351.45,1012.24
+Zirconia Grade-36,Zirconia,1282.48,4669.84,4704.86,2048.09
+GFRP Grade-40,GFRP,5695.79,4537.67,4177.11,946.43
+Aluminum Alloy Grade-28,Aluminum Alloy,7859.94,6382.47,1645.81,1353.27
+Aluminum Alloy Grade-33,Aluminum Alloy,4737.66,9091.16,3990.53,550.59
+Brass Grade-19,Brass,5159.85,6624.16,1709.85,2464.35
+Stainless Steel Grade-44,Stainless Steel,3111.78,8220.96,780.25,186.33
+Ceramic Matrix Grade-40,Ceramic Matrix,8499.03,1472.8,2102.07,1907.81
+Epoxy Grade-46,Epoxy,6966.88,5349.79,1258.48,1985.37
+Steel Grade-49,Steel,8605.94,8946.62,3903.4,695.58
+Chromium Grade-30,Chromium,512.63,3094.88,4249.42,1396.56
+Metal Matrix Grade-43,Metal Matrix,5316.48,5943.44,1621.31,2277.99
+Composite Grade-40,Composite,8152.1,9006.91,2162.94,2725.22
+Composite Grade-11,Composite,7439.37,5168.58,1333.74,779.36
+Ceramic Grade-50,Ceramic,7779.19,5259.84,1235.03,1347.62
+Zirconia Grade-16,Zirconia,2725.16,3743.37,2724.21,458.2
+Steel Alloy Grade-25,Steel Alloy,6942.86,7299.94,368.87,1252.42
+Vanadium Grade-30,Vanadium,4164.17,2705.26,2130.29,2719.27
+Graphene Grade-45,Graphene,206.1,8902.4,2900.09,1457.09
+Polypropylene Grade-20,Polypropylene,7537.46,8652.16,4769.53,1286.11
+Vanadium Grade-39,Vanadium,8979.24,5293.25,1401.76,1482.64
+PVC Grade-22,PVC,6692.38,8143.51,3634.97,2529.49
+Aramid Grade-40,Aramid,5346.36,9144.02,2980.28,2005.85
+Brass Grade-42,Brass,4292.41,8775.43,950.38,817.46
+Silicon Carbide Grade-14,Silicon Carbide,4552.99,3906.99,4404.34,870.86
+HDPE Grade-17,HDPE,8350.93,5128.41,3757.92,203.65
+Polypropylene Grade-15,Polypropylene,6505.29,7988.0,3276.53,2274.99
+Stainless Steel Grade-13,Stainless Steel,8394.06,6517.42,1231.56,1447.01
+Carbon Fiber Grade-37,Carbon Fiber,9478.14,5079.92,1319.15,1138.24
+Carbon Nanotubes Grade-39,Carbon Nanotubes,9637.75,7409.73,3900.29,533.11
+Alumina Grade-7,Alumina,5791.48,9345.98,2900.62,2728.68
+PVC Grade-26,PVC,9415.35,2627.04,2981.29,2500.19
+Stainless Steel Grade-7,Stainless Steel,6975.26,3576.66,3437.4,2426.31
+Quartz Grade-3,Quartz,3479.22,4742.79,1884.96,1542.58
+Polymer Grade-1,Polymer,8497.41,8365.98,573.31,2884.32
+Metal Matrix Grade-46,Metal Matrix,1539.23,2422.93,2633.12,1968.85
+Vanadium Grade-50,Vanadium,4840.66,4808.98,3668.85,841.77
+Stainless Steel Grade-6,Stainless Steel,2797.21,4949.03,3765.11,1731.06
+Aluminum Grade-32,Aluminum,8511.17,2475.38,1100.78,2403.61
+Polymer Grade-18,Polymer,8804.52,7251.79,1418.25,79.95
+Epoxy Grade-6,Epoxy,2421.91,4540.92,2798.57,758.96
+Ceramic Matrix Grade-42,Ceramic Matrix,7121.59,4924.86,136.34,917.99
+PTFE Grade-45,PTFE,2441.38,6909.44,1877.28,1682.75
+Polypropylene Grade-28,Polypropylene,9966.35,5864.92,1792.11,1388.55
+Alumina Grade-17,Alumina,2313.84,7436.65,1612.65,2241.5
+GFRP Grade-13,GFRP,2172.47,5256.17,3636.97,2930.99
+Chromium Grade-39,Chromium,2837.87,1727.54,1011.69,721.08
+GFRP Grade-20,GFRP,152.33,5715.44,1408.57,2924.17
+Glass Grade-19,Glass,6977.5,1964.39,4349.01,1498.09
+Steel Grade-37,Steel,2851.27,5205.73,1737.15,2898.22
+Cast Iron Grade-31,Cast Iron,1150.62,1403.96,2484.65,1752.21
+Nickel Grade-10,Nickel,1501.33,5979.44,1554.68,2982.06
+Carbon Fiber Grade-36,Carbon Fiber,7647.03,6379.3,3964.38,715.78
+Chromium Grade-25,Chromium,4511.19,4874.71,4307.96,2970.59
+Alumina Grade-37,Alumina,6214.44,6409.78,3713.7,2845.39
+Aluminum Alloy Grade-41,Aluminum Alloy,2118.93,6876.96,828.28,562.75
+Copper Grade-11,Copper,37.73,4946.28,2989.77,909.21
+Steel Alloy Grade-19,Steel Alloy,7072.78,7268.38,2298.0,2077.79
+Cast Iron Grade-41,Cast Iron,5902.41,8196.52,1030.01,388.59
+Steel Alloy Grade-42,Steel Alloy,1499.26,3246.02,754.93,225.93
+Alumina Grade-39,Alumina,7492.34,6038.0,1479.33,416.84
+Alumina Grade-45,Alumina,4031.66,3306.85,2723.37,1341.39
+Carbon Nanotubes Grade-3,Carbon Nanotubes,8895.45,7558.51,3038.78,126.3
+Steel Alloy Grade-44,Steel Alloy,8361.39,6093.11,4756.44,2998.74
+Ceramic Grade-37,Ceramic,412.87,7758.4,2379.51,1971.95
+Ceramic Grade-12,Ceramic,9969.49,4811.83,4080.7,2908.71
+Ceramic Matrix Grade-23,Ceramic Matrix,4089.99,3755.77,568.66,524.43
+HDPE Grade-45,HDPE,4960.24,6896.78,2032.84,2293.47
+Titanium Grade-30,Titanium,890.63,3124.31,624.7,2329.02
+Molybdenum Grade-1,Molybdenum,6580.37,5793.23,2096.16,603.37
+Nylon Grade-40,Nylon,7567.11,6554.88,3812.19,650.5
+Glass Grade-9,Glass,9277.52,4832.35,3506.64,408.21
+Carbon Nanotubes Grade-16,Carbon Nanotubes,7101.02,3660.97,118.67,1253.57
+Steel Alloy Grade-8,Steel Alloy,4620.4,1883.34,4169.28,1520.21
+Zirconia Grade-33,Zirconia,7057.36,4624.26,2438.89,1443.05
+Metal Matrix Grade-36,Metal Matrix,1455.83,2556.04,3017.32,2251.56
+Aramid Grade-5,Aramid,2770.44,8068.69,2104.55,2806.03
+Molybdenum Grade-18,Molybdenum,8207.47,3404.27,1528.55,1781.47
+Composite Grade-35,Composite,4849.09,3860.45,3826.46,1162.77
+Silicon Carbide Grade-13,Silicon Carbide,9807.96,2999.29,1946.32,2575.24
+HDPE Grade-3,HDPE,3189.26,5152.96,4571.57,1174.63
+Fiberglass Grade-32,Fiberglass,9648.63,1964.09,4828.53,1029.38
+Bronze Grade-29,Bronze,1007.02,9176.33,126.96,475.26
+Fiberglass Grade-5,Fiberglass,4700.74,9716.77,1726.54,2093.48
+Brass Grade-22,Brass,8525.04,8706.37,1931.67,984.15
+Tungsten Grade-35,Tungsten,369.6,1432.27,3174.62,2766.74
+Steel Alloy Grade-48,Steel Alloy,913.8,9800.77,3814.07,2126.48
+CFRP Grade-45,CFRP,3002.37,1069.23,1656.33,215.55
+Polypropylene Grade-24,Polypropylene,4313.13,3048.88,2090.24,2061.31
+GFRP Grade-11,GFRP,1759.77,6408.5,1944.21,2065.25
+Tungsten Grade-38,Tungsten,1440.6,5044.2,1307.93,803.21
+Steel Grade-30,Steel,9013.18,7034.99,832.82,1353.1
+Polypropylene Grade-38,Polypropylene,2999.25,9650.78,3467.36,1397.67
+Alumina Grade-13,Alumina,9993.74,8651.13,578.83,1175.02
+Polypropylene Grade-37,Polypropylene,2966.47,7234.27,159.58,2498.61
+PTFE Grade-18,PTFE,91.89,8759.02,3902.86,2922.13
+Carbon Nanotubes Grade-48,Carbon Nanotubes,4972.81,9118.52,1467.37,2406.64
+Carbon Nanotubes Grade-23,Carbon Nanotubes,2198.64,2551.64,1291.35,2278.95
+Bronze Grade-41,Bronze,6467.3,3644.26,2232.63,1759.74
+Aramid Grade-6,Aramid,9097.27,3807.84,2107.32,642.34
+Vanadium Grade-24,Vanadium,5313.68,9204.34,4161.01,808.06
+Ceramic Matrix Grade-19,Ceramic Matrix,7468.38,3918.16,620.97,2890.54
+Fiberglass Grade-49,Fiberglass,9665.37,8713.71,3635.15,2940.83
+Glass Grade-24,Glass,913.04,4431.9,1359.81,414.59
+Nylon Grade-44,Nylon,7492.88,3214.1,1936.7,1933.72
+Nylon Grade-7,Nylon,6751.94,5139.17,3117.14,2832.35
+Silicon Carbide Grade-40,Silicon Carbide,2222.24,1384.41,4128.26,2732.69
+Alumina Grade-42,Alumina,4089.47,2088.53,4734.05,947.88
+Tungsten Grade-8,Tungsten,981.85,8963.12,722.4,1388.25
+Vanadium Grade-27,Vanadium,5877.94,7485.53,4432.91,1982.02
+Tungsten Grade-40,Tungsten,4087.67,9554.14,212.91,1143.06
+Composite Grade-29,Composite,9506.1,8670.58,542.71,2072.76
+Vanadium Grade-42,Vanadium,3593.79,4464.69,990.36,410.37
+Metal Matrix Grade-6,Metal Matrix,6631.4,6704.76,3006.28,113.0
+Polymer Grade-16,Polymer,9888.33,8040.84,1066.56,2497.96
+Glass Grade-14,Glass,5868.38,8280.65,1204.11,2334.39
+Carbon Nanotubes Grade-1,Carbon Nanotubes,2780.7,9853.11,4938.27,1643.64
+GFRP Grade-8,GFRP,6614.3,1040.1,124.54,2380.45
+Stainless Steel Grade-38,Stainless Steel,3245.15,2405.54,310.32,2238.07
+Chromium Grade-8,Chromium,7459.45,5183.03,3901.41,1564.05
+Molybdenum Grade-15,Molybdenum,9454.76,1201.83,3927.19,2607.59
+Chromium Grade-20,Chromium,4586.39,9669.15,352.02,1463.0
+PTFE Grade-28,PTFE,6864.43,5312.0,4553.11,266.8
+Brass Grade-21,Brass,6087.28,1407.08,1412.05,1917.58
+Glass Grade-46,Glass,3259.28,9950.59,2676.73,1388.46
+Carbon Nanotubes Grade-28,Carbon Nanotubes,1001.69,7257.27,4271.47,1970.2
+Glass Grade-47,Glass,8656.4,4758.35,4446.16,1270.75
+Metal Matrix Grade-26,Metal Matrix,4166.32,1677.5,2163.06,2012.07
+Nylon Grade-10,Nylon,6871.66,5164.84,502.47,301.82
+Rubber Grade-7,Rubber,7448.7,4230.23,694.94,226.94
+Glass Grade-36,Glass,3303.83,1927.16,1800.96,2012.75
+Rubber Grade-47,Rubber,524.89,3448.33,1597.31,355.62
+Molybdenum Grade-14,Molybdenum,1556.6,5237.7,4244.16,1082.84
+Carbon Fiber Grade-49,Carbon Fiber,2793.62,2882.99,2174.68,1704.85
+Glass Grade-2,Glass,6094.25,6853.07,3482.99,135.41
+Ceramic Grade-45,Ceramic,7626.71,9278.38,1788.21,585.15
+Fiberglass Grade-37,Fiberglass,6577.22,1442.98,3718.06,2916.84
+Brass Grade-48,Brass,5309.99,4262.86,2296.09,514.36
+Alumina Grade-47,Alumina,3251.26,9461.12,3001.71,2655.86
+Fiberglass Grade-11,Fiberglass,7547.06,1260.67,454.75,1357.18
+Rubber Grade-32,Rubber,6075.08,4612.25,1117.85,1561.42
+Carbon Fiber Grade-19,Carbon Fiber,6785.72,6258.06,2658.8,959.84
+Steel Alloy Grade-26,Steel Alloy,9844.63,1306.83,1062.69,2838.71
+Aramid Grade-49,Aramid,2563.38,3820.74,89.26,2253.69
+GFRP Grade-9,GFRP,3808.89,7274.66,2526.8,2508.39
+Polypropylene Grade-5,Polypropylene,3977.34,7627.55,2209.85,1406.28
+Copper Grade-21,Copper,5762.26,6076.56,3562.31,1282.2
+Carbon Fiber Grade-26,Carbon Fiber,219.34,3789.89,4016.74,1873.47
+Nylon Grade-6,Nylon,4373.31,1776.62,2207.16,1231.33
+Brass Grade-26,Brass,8706.67,7662.17,1147.56,2348.4
+Copper Grade-33,Copper,6336.28,5682.97,1010.63,2339.87
+Polypropylene Grade-47,Polypropylene,9582.69,6739.14,781.92,353.27
+Cast Iron Grade-13,Cast Iron,1744.08,2208.94,3808.05,272.29
+Tungsten Grade-30,Tungsten,7547.16,7791.59,2272.63,2776.26
+Quartz Grade-42,Quartz,6356.99,6546.73,4328.16,1900.29
+Fiberglass Grade-29,Fiberglass,693.11,4869.99,1549.66,860.29
+Nickel Grade-23,Nickel,5078.79,3657.82,2287.52,217.83
+Zirconia Grade-5,Zirconia,6450.57,9791.86,497.88,1802.54
+PVC Grade-30,PVC,5807.91,9579.07,3707.92,171.02
+Epoxy Grade-21,Epoxy,6054.4,5414.08,4790.77,1379.04
+Polymer Grade-46,Polymer,853.36,6745.43,244.71,2137.48
+Composite Grade-34,Composite,5232.73,2262.99,1896.24,884.54
+HDPE Grade-50,HDPE,3390.95,6301.76,3956.88,1959.55
+Copper Grade-22,Copper,955.02,7042.05,1457.24,2185.01
+Carbon Nanotubes Grade-10,Carbon Nanotubes,3340.95,6162.46,750.93,1081.97
+PTFE Grade-9,PTFE,5954.87,9429.81,1583.12,1161.2
+Polymer Grade-9,Polymer,6704.79,8426.94,3707.2,2071.97
+Chromium Grade-6,Chromium,6464.14,4697.07,1841.69,1119.66
+GFRP Grade-14,GFRP,3424.56,7849.34,1001.23,2999.93
+Zirconia Grade-7,Zirconia,5082.31,5767.27,3706.55,1603.27
+Polymer Grade-50,Polymer,6184.52,6295.88,814.4,583.5
+CFRP Grade-47,CFRP,4382.92,4581.67,3398.32,750.71
+Zirconia Grade-49,Zirconia,7488.13,4931.79,2693.82,962.93
+Ceramic Matrix Grade-13,Ceramic Matrix,3685.36,9513.76,4922.99,1411.96
+Zirconia Grade-50,Zirconia,3825.52,5654.05,4833.06,2459.83
+Carbon Nanotubes Grade-9,Carbon Nanotubes,8731.42,1282.9,2429.44,1145.08
+Bronze Grade-46,Bronze,8460.62,8631.17,1461.78,2301.19
+Ceramic Grade-29,Ceramic,9054.1,2158.17,2216.05,2841.92
+Steel Alloy Grade-29,Steel Alloy,8847.57,9360.55,2104.32,1219.54
+Nylon Grade-16,Nylon,3868.41,1553.53,1162.24,990.12
+Polymer Grade-10,Polymer,1385.48,3441.43,4157.49,2103.41
+Ceramic Matrix Grade-29,Ceramic Matrix,6157.71,9134.17,145.05,686.18
+Fiberglass Grade-36,Fiberglass,9402.92,6402.87,2145.69,2339.71
+Stainless Steel Grade-20,Stainless Steel,1228.14,2995.93,3213.17,1887.29
+Copper Grade-8,Copper,8368.67,5399.93,2703.93,1914.27
+Quartz Grade-16,Quartz,7188.54,3481.83,58.74,1090.81
+Quartz Grade-27,Quartz,1882.08,6948.57,2641.73,1113.78
+Chromium Grade-35,Chromium,5078.7,9892.68,2793.5,1201.84
+Ceramic Matrix Grade-3,Ceramic Matrix,6360.72,9825.62,1306.32,97.91
+Copper Grade-23,Copper,2419.61,6846.39,564.03,1766.61
+Vanadium Grade-22,Vanadium,8137.14,2413.29,3906.98,1420.64
+Ceramic Matrix Grade-41,Ceramic Matrix,1831.77,2043.24,3594.71,2833.64
+Titanium Grade-19,Titanium,2024.69,8078.83,4434.78,981.01
+Alumina Grade-33,Alumina,3988.86,8302.29,2393.86,158.03
+Epoxy Grade-19,Epoxy,3576.82,7984.4,4335.84,1029.18
+Carbon Fiber Grade-24,Carbon Fiber,4375.71,4482.0,2227.26,2871.61
+Polymer Grade-12,Polymer,4967.57,5378.72,4625.41,1581.86
+Brass Grade-47,Brass,4251.33,4763.29,4975.74,582.35
+Zirconia Grade-21,Zirconia,1035.85,3818.88,1514.12,1365.45
+Rubber Grade-11,Rubber,6901.06,4036.18,260.62,2616.61
+Polypropylene Grade-40,Polypropylene,9981.53,3328.09,4901.16,2846.32
+Copper Grade-43,Copper,6379.11,4144.37,4015.62,2054.26
+Aluminum Grade-10,Aluminum,8488.36,7039.38,2219.52,422.38
+Stainless Steel Grade-50,Stainless Steel,6455.53,4133.7,4749.91,145.54
+Fiberglass Grade-44,Fiberglass,4505.28,4214.76,2248.06,276.81
+Aramid Grade-34,Aramid,3676.46,3694.4,1430.24,2883.53
+Aluminum Grade-48,Aluminum,1869.43,5564.7,4572.12,397.39
+Cast Iron Grade-46,Cast Iron,4468.82,9966.57,1464.32,2753.61
+Tungsten Grade-13,Tungsten,1236.03,8646.44,2288.16,2701.1
+Composite Grade-6,Composite,8107.22,9701.66,4933.56,2020.13
+Copper Grade-36,Copper,5426.75,9000.58,4264.39,2149.84
+GFRP Grade-24,GFRP,5092.96,1919.17,1045.65,459.69
+Tungsten Grade-2,Tungsten,3616.0,6066.24,2364.19,2949.89
+Brass Grade-5,Brass,3100.5,9996.28,3608.69,1600.8
+HDPE Grade-37,HDPE,747.7,9745.98,3229.93,1377.42
+Chromium Grade-23,Chromium,1292.93,8427.81,2779.4,1783.97
+Aramid Grade-28,Aramid,5034.11,8787.94,4165.55,1578.4
+Alumina Grade-11,Alumina,1628.89,9399.78,1166.85,2845.08
+Chromium Grade-19,Chromium,8461.03,3107.82,3193.9,1674.98
+Alumina Grade-40,Alumina,5339.91,5425.17,885.58,2827.74
+Carbon Nanotubes Grade-22,Carbon Nanotubes,8427.03,5986.6,4135.09,133.7
+Titanium Grade-42,Titanium,7712.74,3237.04,1094.29,1737.8
+Vanadium Grade-19,Vanadium,6423.01,3581.36,1262.9,2431.68
+PTFE Grade-20,PTFE,4541.45,7136.18,833.34,1276.08
+Metal Matrix Grade-14,Metal Matrix,3409.18,2124.32,4314.49,991.98
+Polypropylene Grade-26,Polypropylene,1317.22,4210.86,2830.61,991.39
+Metal Matrix Grade-8,Metal Matrix,2682.77,3083.11,530.12,906.13
+PVC Grade-40,PVC,4187.75,9656.82,4516.54,2449.76
+Quartz Grade-47,Quartz,3134.71,7821.43,2516.92,1568.44
+Tungsten Grade-20,Tungsten,4979.23,1631.18,1997.16,1398.83
+Stainless Steel Grade-14,Stainless Steel,5838.02,1250.51,1443.43,1812.68
+Vanadium Grade-1,Vanadium,8473.4,4766.24,4418.27,2196.15
+PTFE Grade-24,PTFE,462.93,1273.5,2831.43,1119.45
+PVC Grade-33,PVC,4509.59,5860.04,4135.47,1888.56
+Carbon Fiber Grade-9,Carbon Fiber,9751.1,4425.73,3984.95,1050.3
+Nylon Grade-49,Nylon,1452.09,6343.85,2037.46,168.75
+Titanium Grade-9,Titanium,7139.07,8197.07,2621.18,489.37
+Molybdenum Grade-9,Molybdenum,3287.05,6441.39,855.22,2972.32
+Alumina Grade-38,Alumina,3371.03,8420.78,2685.55,2140.78
+Alumina Grade-31,Alumina,8159.52,4190.79,3385.67,2940.7
+Graphene Grade-20,Graphene,7969.78,7473.81,3456.13,128.61
+Ceramic Matrix Grade-17,Ceramic Matrix,9671.07,8003.37,3892.23,1754.02
+Nickel Grade-38,Nickel,4810.2,5624.36,3620.13,2335.09
+PVC Grade-10,PVC,8218.57,3030.48,2884.65,2116.54
+Epoxy Grade-2,Epoxy,4416.53,4654.52,2094.74,651.48
+Molybdenum Grade-50,Molybdenum,6119.05,5140.36,4249.62,2195.84
+Aluminum Alloy Grade-36,Aluminum Alloy,3257.92,6893.5,2651.59,975.57
+GFRP Grade-30,GFRP,9122.21,3951.38,1804.37,2327.37
+Cast Iron Grade-40,Cast Iron,4847.48,9607.63,1431.8,930.57
+Alumina Grade-50,Alumina,2897.86,2709.33,3539.99,985.27
+Polypropylene Grade-36,Polypropylene,9337.73,8118.34,1404.34,409.53
+Vanadium Grade-25,Vanadium,8958.75,4431.51,1759.07,2330.54
+Fiberglass Grade-19,Fiberglass,431.2,9589.02,442.12,2775.83
+Cast Iron Grade-48,Cast Iron,4796.52,2661.42,2716.42,2802.42
+Ceramic Grade-9,Ceramic,1102.06,7616.97,1235.21,199.76
+Chromium Grade-15,Chromium,6383.43,1285.76,2096.43,2166.21
+Bronze Grade-44,Bronze,7710.18,850.65,2774.69,2790.84
+HDPE Grade-42,HDPE,9351.04,8881.64,2413.89,638.4
+Zirconia Grade-42,Zirconia,601.98,7872.96,3279.23,735.05
+Titanium Grade-12,Titanium,4185.25,8506.45,4672.98,157.2
+PTFE Grade-32,PTFE,1872.07,7691.58,4367.97,903.93
+Titanium Grade-1,Titanium,2991.64,6346.79,4645.92,1038.37
+Metal Matrix Grade-42,Metal Matrix,5438.03,5345.51,4695.94,2560.63
+Metal Matrix Grade-18,Metal Matrix,1936.99,1839.01,855.18,1403.8
+GFRP Grade-1,GFRP,7369.08,8075.69,2860.95,2283.98
+Molybdenum Grade-21,Molybdenum,877.42,6958.15,965.48,464.81
+Silicon Carbide Grade-16,Silicon Carbide,79.23,4330.73,2261.89,837.63
+Polymer Grade-20,Polymer,5829.2,6071.75,1345.43,1110.68
+Stainless Steel Grade-4,Stainless Steel,6681.52,5083.24,841.44,2073.92
+Carbon Fiber Grade-41,Carbon Fiber,9162.23,3516.46,3092.78,696.43
+Aramid Grade-31,Aramid,1541.17,7679.92,3048.8,1276.74
+Glass Grade-31,Glass,7576.17,8178.95,4136.91,2297.49
+Carbon Nanotubes Grade-6,Carbon Nanotubes,5260.29,5660.61,1841.47,2755.87
+Carbon Fiber Grade-4,Carbon Fiber,8289.62,9106.86,1051.47,1633.15
+CFRP Grade-21,CFRP,8546.46,4866.61,3417.78,2164.91
+Tungsten Grade-6,Tungsten,8990.01,4900.1,326.34,439.24
+HDPE Grade-30,HDPE,5643.91,5942.26,3380.53,959.1
+Aluminum Grade-26,Aluminum,2552.77,830.73,1129.39,265.44
+Rubber Grade-23,Rubber,7007.14,5780.08,349.21,2687.94
+Zirconia Grade-27,Zirconia,1808.83,2048.54,3225.91,2201.4
+HDPE Grade-24,HDPE,9928.64,4320.67,4354.75,2724.96
+PVC Grade-6,PVC,6830.79,6889.51,2720.0,1977.93
+Polypropylene Grade-8,Polypropylene,1793.77,5744.17,2668.24,2197.18
+Steel Alloy Grade-1,Steel Alloy,7564.48,9802.18,2342.41,2171.33
+Rubber Grade-35,Rubber,3799.59,2915.22,2330.63,507.61
+Epoxy Grade-47,Epoxy,7657.48,1099.3,3318.32,1864.02
+Aluminum Grade-16,Aluminum,2069.55,1730.95,217.17,1813.47
+Nickel Grade-16,Nickel,7408.26,4502.63,1210.75,690.94
+Nickel Grade-9,Nickel,5044.42,3463.36,4088.33,2207.98
+Silicon Carbide Grade-37,Silicon Carbide,5983.6,6988.28,1637.97,940.21
+Fiberglass Grade-43,Fiberglass,5217.78,4606.51,1412.74,1692.32
+Graphene Grade-48,Graphene,9116.75,6560.26,2165.22,1512.08
+Polypropylene Grade-42,Polypropylene,6717.04,8030.04,1628.42,1278.16
+Fiberglass Grade-20,Fiberglass,3771.46,7741.36,2394.44,2555.56
+Alumina Grade-46,Alumina,1452.93,5061.44,336.18,1267.4
+HDPE Grade-36,HDPE,5305.09,4375.29,1312.97,1024.28
+Brass Grade-29,Brass,8473.02,1653.39,3636.97,611.92
+Ceramic Grade-25,Ceramic,6740.31,6348.07,4374.55,605.08
+Graphene Grade-47,Graphene,6718.12,2798.9,1084.79,2725.75
+Alumina Grade-1,Alumina,2126.75,2550.65,3720.56,2253.29
+Ceramic Matrix Grade-16,Ceramic Matrix,6959.61,7275.56,2013.93,756.03
+Silicon Carbide Grade-50,Silicon Carbide,2838.48,5091.11,3261.52,959.85
+Nylon Grade-33,Nylon,8829.41,5088.84,4024.14,2181.12
+Nylon Grade-21,Nylon,4145.75,5976.54,1146.09,480.47
+Cast Iron Grade-36,Cast Iron,9348.3,6129.38,2117.59,499.61
+Polymer Grade-15,Polymer,3805.22,8467.44,2522.04,1981.09
+Polymer Grade-17,Polymer,7636.21,5296.85,3631.89,2231.8
+Metal Matrix Grade-11,Metal Matrix,7330.66,4041.96,743.65,1662.31
+GFRP Grade-35,GFRP,9903.34,9606.71,2644.0,2525.25
+Nickel Grade-49,Nickel,74.77,2067.51,3172.34,250.51
+Fiberglass Grade-1,Fiberglass,2195.79,4996.92,350.17,1931.3
+Ceramic Matrix Grade-43,Ceramic Matrix,4884.18,863.81,2781.08,84.96
+Chromium Grade-47,Chromium,2755.39,9792.88,135.84,2448.81
+Rubber Grade-12,Rubber,1079.99,1688.8,787.89,616.2
+Chromium Grade-17,Chromium,8154.18,3261.59,2015.24,1150.5
+PTFE Grade-30,PTFE,5654.81,9910.17,1168.77,2067.92
+Titanium Grade-6,Titanium,4059.32,4271.83,2406.75,1928.41
+CFRP Grade-6,CFRP,5004.09,4793.67,3932.88,1719.28
+Bronze Grade-34,Bronze,9192.41,2916.16,4511.4,2092.25
+Quartz Grade-31,Quartz,2718.97,9302.49,3438.24,877.1
+Vanadium Grade-37,Vanadium,6584.85,2452.52,4259.77,96.19
+Aluminum Alloy Grade-38,Aluminum Alloy,1451.33,8350.89,4113.65,2790.18
+Quartz Grade-25,Quartz,6773.9,5774.55,1950.65,2232.25
+Brass Grade-33,Brass,7457.37,3983.87,534.45,734.82
+Carbon Nanotubes Grade-50,Carbon Nanotubes,6142.9,6280.81,4846.19,1012.81
+Tungsten Grade-15,Tungsten,3565.2,9458.69,2188.22,2055.1
+Copper Grade-6,Copper,2687.77,4297.86,3930.47,505.12
+PVC Grade-21,PVC,3614.03,1644.71,4717.71,1361.97
+Ceramic Grade-7,Ceramic,1334.61,2526.44,2272.33,1686.48
+HDPE Grade-7,HDPE,273.33,4057.95,511.58,1814.23
+Silicon Carbide Grade-25,Silicon Carbide,134.27,4608.81,3907.11,2188.29
+Glass Grade-16,Glass,5724.31,2362.65,1935.24,459.58
+Alumina Grade-18,Alumina,4936.82,1384.87,2202.21,1292.25
+Ceramic Matrix Grade-5,Ceramic Matrix,3618.28,9487.01,3618.73,1512.62
+Epoxy Grade-30,Epoxy,1079.55,3604.94,4746.73,1030.04
+Composite Grade-22,Composite,4312.43,8377.05,3272.98,1803.46
+Alumina Grade-21,Alumina,6036.48,7197.6,2421.62,574.03
+PTFE Grade-21,PTFE,2922.28,7194.53,2481.0,1748.84
+Stainless Steel Grade-21,Stainless Steel,3767.42,8312.3,1995.64,385.97
+Quartz Grade-13,Quartz,5926.76,5821.15,3424.8,1672.79
+Aluminum Alloy Grade-29,Aluminum Alloy,7979.08,8448.3,393.27,2550.97
+HDPE Grade-44,HDPE,4998.54,6627.79,1248.76,1993.06
+Rubber Grade-25,Rubber,749.84,9914.47,2422.73,1232.38
+Molybdenum Grade-45,Molybdenum,4189.41,1141.13,4843.75,2119.82
+Brass Grade-7,Brass,7692.08,6850.96,1807.94,1958.65
+Titanium Grade-37,Titanium,9836.26,7033.71,2028.71,2270.41
+Steel Grade-7,Steel,2595.54,5499.69,2618.53,1762.53
+Quartz Grade-15,Quartz,4463.88,4400.26,3873.32,1786.34
+Molybdenum Grade-10,Molybdenum,3456.88,1028.9,568.41,1277.13
+Brass Grade-8,Brass,8315.03,7518.2,1774.88,1062.05
+Aluminum Alloy Grade-34,Aluminum Alloy,4834.95,5182.27,2219.48,2105.45
+Silicon Carbide Grade-5,Silicon Carbide,3010.34,8254.28,620.56,2555.08
+CFRP Grade-48,CFRP,2447.45,2407.45,843.51,1701.55
+Metal Matrix Grade-15,Metal Matrix,7979.78,6594.91,973.43,1989.06
+PTFE Grade-2,PTFE,7376.77,8924.85,2275.95,1317.18
+Steel Grade-46,Steel,2156.6,3362.94,3533.91,2398.22
+Vanadium Grade-12,Vanadium,3664.91,2615.49,614.96,2028.57
+Tungsten Grade-34,Tungsten,9659.54,3685.38,1974.38,1208.0
+Carbon Fiber Grade-23,Carbon Fiber,3526.98,5013.94,904.84,2037.09
+Graphene Grade-6,Graphene,6724.71,3683.37,1231.7,395.0
+Nylon Grade-45,Nylon,1423.03,4375.7,3002.71,1745.68
+Tungsten Grade-41,Tungsten,5378.88,9256.52,4657.01,561.04
+CFRP Grade-32,CFRP,2896.17,2523.75,4217.98,1877.26
+Polypropylene Grade-1,Polypropylene,4851.76,2597.6,1951.14,1706.67
+Tungsten Grade-27,Tungsten,6850.44,4625.55,4207.62,1491.66
+Brass Grade-37,Brass,319.27,7802.44,1496.55,860.82
+CFRP Grade-50,CFRP,4579.18,7631.94,3841.54,1671.69
+Carbon Fiber Grade-18,Carbon Fiber,7753.6,8374.73,1866.6,2476.7
+Titanium Grade-49,Titanium,7192.89,5827.81,4949.4,352.13
+Titanium Grade-29,Titanium,2636.26,8732.65,481.48,2602.61
+Carbon Fiber Grade-50,Carbon Fiber,8120.96,2733.25,3701.45,2082.94
+Aramid Grade-14,Aramid,8137.35,8210.64,2872.3,1620.23
+Carbon Nanotubes Grade-35,Carbon Nanotubes,1692.92,9806.86,1499.25,1739.57
+Molybdenum Grade-44,Molybdenum,8153.84,2050.01,3763.22,1264.21
+Nickel Grade-18,Nickel,8671.94,1969.99,4337.22,786.55
+HDPE Grade-25,HDPE,4525.95,6630.47,4406.74,324.63
+Molybdenum Grade-48,Molybdenum,2790.2,9414.48,1877.53,2853.25
+Silicon Carbide Grade-38,Silicon Carbide,35.7,7922.72,3677.25,2206.25
+Metal Matrix Grade-41,Metal Matrix,6645.13,4097.57,364.42,1626.55
+Aluminum Alloy Grade-32,Aluminum Alloy,2693.41,8421.28,1722.55,1754.9
+Quartz Grade-32,Quartz,7885.37,9026.54,3823.4,185.53
+Metal Matrix Grade-2,Metal Matrix,1252.01,8690.82,2234.92,51.99
+Rubber Grade-13,Rubber,9956.99,9166.82,4416.75,940.5
+Ceramic Grade-6,Ceramic,6549.68,3105.83,1891.25,2716.21
+CFRP Grade-4,CFRP,3970.06,3612.77,3512.54,740.72
+Brass Grade-46,Brass,961.79,2765.83,436.72,1801.35
+Chromium Grade-44,Chromium,4456.77,877.15,1751.35,405.75
+Rubber Grade-45,Rubber,1331.3,1454.41,1946.81,2205.75
+Bronze Grade-7,Bronze,3141.07,8905.46,729.65,2331.71
+Aramid Grade-42,Aramid,9929.48,2116.82,2676.49,75.0
+CFRP Grade-29,CFRP,3519.01,2762.47,3754.18,2763.69
+Composite Grade-14,Composite,876.93,1726.98,3774.85,1789.24
+PVC Grade-23,PVC,9632.89,3695.49,743.02,867.05
+Brass Grade-16,Brass,5538.88,6321.27,3057.98,2347.96
+Aluminum Grade-43,Aluminum,8759.64,2692.48,3054.68,606.51
+PTFE Grade-19,PTFE,6465.59,8011.62,3979.41,756.06
+PVC Grade-8,PVC,2419.17,6671.44,402.44,2671.74
+Steel Grade-24,Steel,9339.97,2016.85,4311.17,1726.72
+Nylon Grade-35,Nylon,6832.91,7817.79,4774.59,2322.58
+Copper Grade-1,Copper,2629.97,1169.29,350.26,2378.41
+Molybdenum Grade-19,Molybdenum,6289.79,5411.15,2106.97,2120.34
+Brass Grade-41,Brass,5370.75,6468.78,1424.19,964.23
+Fiberglass Grade-35,Fiberglass,3274.91,6196.46,3828.2,1967.03
+Copper Grade-20,Copper,6990.07,7516.43,4240.17,220.82
+Brass Grade-28,Brass,1169.59,6434.29,323.34,2014.93
+Aramid Grade-45,Aramid,124.38,5368.51,1766.84,1575.81
+Cast Iron Grade-11,Cast Iron,3725.6,7698.69,4373.75,2212.16
+Aluminum Grade-22,Aluminum,8073.2,3304.41,367.1,2151.35
+Quartz Grade-41,Quartz,780.85,4989.45,1833.25,1523.85
+Quartz Grade-11,Quartz,3683.83,3149.3,560.28,1743.04
+Carbon Fiber Grade-15,Carbon Fiber,7410.65,826.62,4300.65,86.25
+Titanium Grade-31,Titanium,3646.76,9266.32,936.68,2883.01
+Titanium Grade-36,Titanium,8033.32,7369.85,3296.08,712.32
+Stainless Steel Grade-27,Stainless Steel,9159.47,3745.44,4138.86,1736.03
+Carbon Fiber Grade-33,Carbon Fiber,6736.85,1287.43,1155.54,1571.53
+Titanium Grade-26,Titanium,699.51,5080.47,1448.14,2542.3
+Silicon Carbide Grade-6,Silicon Carbide,5535.83,876.29,1044.12,1713.23
+Alumina Grade-48,Alumina,6231.33,5069.73,2979.28,1505.41
+Stainless Steel Grade-10,Stainless Steel,74.71,4574.1,1204.11,1071.95
+Steel Grade-22,Steel,25.6,6848.22,4252.73,2195.28
+Bronze Grade-14,Bronze,5303.32,2993.43,2486.05,226.69
+Fiberglass Grade-46,Fiberglass,2806.17,1206.75,1196.56,2544.24
+Nylon Grade-30,Nylon,9745.83,1583.85,524.01,443.87
+PTFE Grade-5,PTFE,5923.45,1375.82,3329.44,435.59
+Zirconia Grade-17,Zirconia,8510.78,9319.81,1995.72,2504.1
+Silicon Carbide Grade-21,Silicon Carbide,4533.6,2951.52,4720.65,451.53
+Graphene Grade-7,Graphene,1563.4,2314.76,2357.51,1249.21
+Vanadium Grade-23,Vanadium,9646.74,2712.63,1576.81,831.77
+Carbon Fiber Grade-6,Carbon Fiber,1585.42,7112.65,4140.79,2105.79
+Titanium Grade-14,Titanium,8361.05,3817.72,502.41,782.25
+Molybdenum Grade-4,Molybdenum,6775.38,3195.75,4953.86,141.69
+PTFE Grade-29,PTFE,5564.42,5862.46,519.8,350.63
+Aramid Grade-8,Aramid,130.44,8439.93,4913.73,435.61
+Brass Grade-38,Brass,5865.74,9240.59,422.11,2991.63
+Epoxy Grade-42,Epoxy,4440.44,1987.5,4530.23,2496.6
+Nickel Grade-11,Nickel,9242.15,4786.74,3636.21,1513.57
+PVC Grade-44,PVC,4272.95,4058.22,4546.2,861.2
+Composite Grade-10,Composite,357.11,6497.57,1267.39,920.56
+Ceramic Matrix Grade-4,Ceramic Matrix,887.25,4325.59,2125.79,1945.82
+Chromium Grade-16,Chromium,6311.61,8180.54,3984.69,2968.74
+Polypropylene Grade-31,Polypropylene,5450.19,5260.6,4567.84,1532.06
+PVC Grade-18,PVC,1807.18,3735.72,1134.93,2692.51
+Ceramic Grade-4,Ceramic,8088.64,5141.08,1819.94,1772.77
+Steel Alloy Grade-11,Steel Alloy,1011.24,6844.18,1370.04,2458.04
+Steel Alloy Grade-37,Steel Alloy,8466.74,8136.6,1806.93,2525.71
+GFRP Grade-12,GFRP,2373.91,3727.69,3703.88,1108.41
+Graphene Grade-2,Graphene,7037.79,4037.42,2860.31,469.2
+Epoxy Grade-32,Epoxy,5426.28,2417.6,238.88,215.7
+Carbon Nanotubes Grade-15,Carbon Nanotubes,210.06,5199.06,1692.75,1861.7
+Aramid Grade-22,Aramid,7172.49,9253.03,4229.36,1004.59
+Graphene Grade-46,Graphene,9173.15,7924.85,4240.23,2588.97
+Copper Grade-24,Copper,7048.63,6892.7,2951.2,1042.86
+Silicon Carbide Grade-9,Silicon Carbide,9758.87,7538.44,2213.06,1935.83
+Tungsten Grade-42,Tungsten,3180.34,7306.96,2832.23,2674.32
+Graphene Grade-12,Graphene,3790.68,7553.55,1508.57,574.24
+Steel Grade-45,Steel,9487.55,4404.56,4971.71,2897.29
+Carbon Nanotubes Grade-21,Carbon Nanotubes,9211.25,9701.39,1144.21,1718.37
+Polymer Grade-48,Polymer,788.21,3992.61,1632.3,1926.75
+Polymer Grade-29,Polymer,124.83,2731.47,3481.53,1083.92
+Bronze Grade-47,Bronze,23.8,4352.46,3676.56,2908.85
+HDPE Grade-32,HDPE,8819.01,4033.27,1908.6,2494.98
+Composite Grade-5,Composite,7994.15,1110.3,150.37,820.33
+Bronze Grade-5,Bronze,3425.32,8969.3,847.32,271.26
+Carbon Nanotubes Grade-40,Carbon Nanotubes,8933.44,7282.33,2185.62,1978.22
+Bronze Grade-22,Bronze,2064.24,2550.29,3501.43,2180.01
+Vanadium Grade-17,Vanadium,6609.71,3538.19,525.69,1209.06
+Glass Grade-32,Glass,1545.21,4121.54,2167.22,918.92
+Carbon Nanotubes Grade-31,Carbon Nanotubes,2005.55,1039.69,896.45,910.84
+Brass Grade-31,Brass,8439.41,3638.93,2018.07,1492.84
+Cast Iron Grade-6,Cast Iron,6422.6,4367.09,1887.18,1175.26
+GFRP Grade-29,GFRP,456.68,4847.29,1354.57,2519.38
+Quartz Grade-4,Quartz,1520.64,7208.44,529.58,2021.02
+Graphene Grade-15,Graphene,5540.93,8535.81,4101.29,1284.96
+Vanadium Grade-44,Vanadium,8670.4,5169.96,4414.3,1454.97
+Titanium Grade-33,Titanium,5716.92,5556.17,2879.28,2949.13
+Fiberglass Grade-8,Fiberglass,9493.11,4932.82,4747.91,543.14
+Aluminum Alloy Grade-13,Aluminum Alloy,1271.47,4696.78,4942.0,1334.41
+Fiberglass Grade-39,Fiberglass,2587.03,9179.67,4575.25,247.69
+PVC Grade-36,PVC,3980.18,3802.39,1417.92,1401.56
+Graphene Grade-34,Graphene,7819.26,1837.84,791.58,1721.45
+Graphene Grade-49,Graphene,9648.7,1724.58,573.79,2349.66
+Zirconia Grade-35,Zirconia,8802.68,8876.99,1358.21,1981.62
+Quartz Grade-39,Quartz,4736.26,2386.72,2045.32,1873.82
+PTFE Grade-3,PTFE,3964.57,8886.77,3468.35,195.41
+Ceramic Matrix Grade-18,Ceramic Matrix,8971.45,989.08,4096.24,944.01
+Ceramic Grade-32,Ceramic,8583.91,7101.58,4863.89,722.47
+Composite Grade-50,Composite,8260.15,3280.86,2113.61,1954.39
+Epoxy Grade-29,Epoxy,2122.58,8381.05,3717.94,2290.51
+Nylon Grade-4,Nylon,5158.03,2265.07,1590.75,1545.05
+Aramid Grade-50,Aramid,8514.59,8890.22,194.26,618.65
+Epoxy Grade-4,Epoxy,2503.16,5000.96,4594.34,2128.67
+Ceramic Grade-24,Ceramic,8237.0,5448.65,3195.64,415.42
+Nylon Grade-32,Nylon,5944.9,2436.24,4359.01,1781.3
+Polypropylene Grade-23,Polypropylene,1644.34,9029.64,3757.61,2082.11
+Zirconia Grade-2,Zirconia,3872.4,2301.26,2883.11,2896.51
+Aluminum Alloy Grade-18,Aluminum Alloy,6519.71,5523.65,4330.05,2903.06
+Steel Grade-31,Steel,9116.13,6756.88,3026.05,74.97
+Cast Iron Grade-39,Cast Iron,8053.0,3612.31,4836.8,1946.08
+Polypropylene Grade-30,Polypropylene,2528.22,5095.22,3402.44,2481.72
+PTFE Grade-38,PTFE,1033.0,5507.39,3329.0,2537.69
+Nylon Grade-36,Nylon,6477.3,6404.43,1528.16,368.91
+Silicon Carbide Grade-18,Silicon Carbide,2619.6,7342.93,4467.36,931.43
+Fiberglass Grade-34,Fiberglass,7657.32,9077.42,4037.07,2416.97
+Carbon Nanotubes Grade-26,Carbon Nanotubes,6609.04,7063.91,3620.63,1983.43
+HDPE Grade-26,HDPE,3889.48,1127.83,3555.23,1737.53
+Epoxy Grade-22,Epoxy,7268.51,2848.07,2696.91,2365.45
+Polypropylene Grade-33,Polypropylene,3009.65,2366.37,3305.54,1696.83
+Ceramic Matrix Grade-9,Ceramic Matrix,7412.04,7472.54,2817.65,2742.24
+Polymer Grade-42,Polymer,903.02,4070.54,3734.09,955.9
+Polymer Grade-24,Polymer,2613.73,3507.39,4263.66,1438.08
+Graphene Grade-38,Graphene,9443.62,1457.97,4452.77,1526.41
+PVC Grade-34,PVC,2991.28,1300.21,4278.63,455.23
+Silicon Carbide Grade-46,Silicon Carbide,1812.58,1546.22,1697.18,2960.59
+Silicon Carbide Grade-41,Silicon Carbide,590.5,4960.53,1087.23,2331.95
+Quartz Grade-49,Quartz,1593.61,8024.58,3909.99,431.75
+Rubber Grade-41,Rubber,4300.37,4748.75,2413.65,63.77
+Vanadium Grade-13,Vanadium,7309.55,9540.78,4465.54,2282.7
+Chromium Grade-13,Chromium,189.96,840.93,3681.6,717.48
+Aramid Grade-7,Aramid,3842.29,6217.0,877.58,2480.34
+Alumina Grade-19,Alumina,4565.25,5588.09,2644.86,1329.31
+Tungsten Grade-23,Tungsten,7503.9,2319.43,4539.22,2445.42
+Aluminum Grade-15,Aluminum,2251.75,9860.94,1096.18,114.64
+Molybdenum Grade-11,Molybdenum,1241.27,7343.08,3971.24,1156.82
+Cast Iron Grade-50,Cast Iron,5352.45,1249.85,4973.67,2002.81
+Aluminum Grade-4,Aluminum,6900.91,4636.08,1932.88,1664.48
+Ceramic Matrix Grade-45,Ceramic Matrix,1540.59,7196.68,3170.41,938.29
+Bronze Grade-43,Bronze,5208.37,6530.87,3518.89,1285.54
+Bronze Grade-33,Bronze,7190.76,1885.8,615.25,363.48
+Epoxy Grade-39,Epoxy,2006.3,3221.76,2640.05,644.94
+HDPE Grade-19,HDPE,1612.97,5844.23,4556.35,2080.2
+Ceramic Matrix Grade-22,Ceramic Matrix,2353.47,920.26,491.48,375.77
+Quartz Grade-43,Quartz,4946.61,9535.06,3908.88,271.39
+Bronze Grade-17,Bronze,6447.28,5003.74,4887.61,829.17
+Nickel Grade-7,Nickel,8133.84,8842.47,4268.78,1112.63
+Silicon Carbide Grade-28,Silicon Carbide,7388.28,1676.7,3803.35,185.37
+Aramid Grade-43,Aramid,6475.87,3825.69,4478.02,2867.51
+Ceramic Grade-47,Ceramic,939.49,8298.23,956.02,1232.29
+PVC Grade-45,PVC,8508.36,8159.67,3262.14,2400.88
+Bronze Grade-27,Bronze,9113.24,5242.16,2866.7,1342.58
+PVC Grade-50,PVC,3593.04,1068.02,3438.41,2523.68
+HDPE Grade-29,HDPE,470.22,3209.05,1606.16,2128.48
+Chromium Grade-50,Chromium,7439.06,7459.55,1159.5,2869.5
+Polymer Grade-34,Polymer,5236.28,7246.24,522.35,2002.05
+Stainless Steel Grade-31,Stainless Steel,3464.69,7022.89,1955.75,2525.15
+Glass Grade-40,Glass,556.06,6720.34,827.63,2554.09
+Tungsten Grade-11,Tungsten,758.83,5324.69,1243.17,2911.93
+Nickel Grade-33,Nickel,2235.62,6719.59,2046.82,743.25
+Metal Matrix Grade-29,Metal Matrix,8014.8,4924.16,4290.26,1368.85
+Carbon Fiber Grade-32,Carbon Fiber,7455.19,966.42,2047.62,155.7
+Brass Grade-39,Brass,9632.12,6666.44,4456.16,1708.88
+Metal Matrix Grade-22,Metal Matrix,3640.43,1302.17,1154.22,1390.66
+Glass Grade-50,Glass,6201.76,5154.41,3303.32,2161.94
+Carbon Fiber Grade-7,Carbon Fiber,7595.85,2842.41,1740.38,2498.16
+Chromium Grade-24,Chromium,7024.24,1224.02,863.4,464.33
+Epoxy Grade-13,Epoxy,1217.13,8640.63,1117.95,2482.43
+Graphene Grade-8,Graphene,7723.96,4946.29,3309.7,2870.76
+Aramid Grade-32,Aramid,54.33,7573.96,2788.92,1326.79
+Graphene Grade-31,Graphene,9244.54,7986.61,4555.49,2090.86
+GFRP Grade-47,GFRP,8154.47,1755.39,3305.08,1838.17
+Silicon Carbide Grade-33,Silicon Carbide,8815.21,4653.46,3064.91,2092.92
+PTFE Grade-22,PTFE,9705.24,4967.82,711.06,1267.6
+Molybdenum Grade-20,Molybdenum,8432.47,5841.17,1604.54,2223.62
+Glass Grade-41,Glass,2182.03,2731.73,3586.49,2075.5
+Aramid Grade-46,Aramid,6504.71,9616.73,2544.77,2098.22
+Ceramic Matrix Grade-38,Ceramic Matrix,5711.1,6938.85,2117.1,2256.21
+Rubber Grade-1,Rubber,5232.55,1035.43,770.22,2027.25
+Epoxy Grade-18,Epoxy,7504.6,2283.12,1469.46,789.15
+Nickel Grade-45,Nickel,7845.95,2679.2,2729.26,1108.11
+Composite Grade-7,Composite,6165.31,7015.81,2831.77,711.71
+Glass Grade-25,Glass,2384.34,8016.27,4004.37,898.53
+Nickel Grade-25,Nickel,3882.28,9601.79,4880.35,972.33
+Glass Grade-4,Glass,140.51,3114.58,3122.16,2353.73
+Composite Grade-15,Composite,9115.84,7283.47,3256.13,2277.57
+Vanadium Grade-48,Vanadium,6038.23,7941.22,4823.27,917.82
+GFRP Grade-44,GFRP,754.87,9654.88,3688.91,402.09
+Titanium Grade-28,Titanium,2799.05,3233.21,847.44,2545.74
+Fiberglass Grade-3,Fiberglass,1546.34,3770.23,302.68,2800.53
+Alumina Grade-32,Alumina,7901.39,5862.82,411.69,2137.66
+GFRP Grade-34,GFRP,692.01,5448.78,2109.44,1634.26
+Brass Grade-23,Brass,2220.55,2765.21,1693.49,1114.35
+Aluminum Alloy Grade-49,Aluminum Alloy,6187.0,5170.26,2829.05,2268.79
+Steel Grade-8,Steel,6693.03,4901.8,4527.35,1860.42
+Stainless Steel Grade-3,Stainless Steel,6829.01,3754.66,4583.95,2837.71
+PVC Grade-17,PVC,5407.43,3404.18,4561.2,2475.22
+Molybdenum Grade-29,Molybdenum,4873.69,3529.3,3275.41,994.92
+Vanadium Grade-35,Vanadium,84.23,1405.14,3368.49,2332.07
+Rubber Grade-42,Rubber,8169.56,1466.29,3446.23,120.07
+Polymer Grade-3,Polymer,885.25,1302.1,3981.57,1696.35
+Cast Iron Grade-27,Cast Iron,3887.06,6599.11,2194.04,99.83
+Carbon Fiber Grade-35,Carbon Fiber,69.92,7427.47,363.96,2250.56
+Titanium Grade-45,Titanium,8484.18,4092.77,2539.54,905.02
+Composite Grade-25,Composite,3957.79,6879.67,2396.77,1623.73
+Aramid Grade-48,Aramid,3916.62,8137.47,2751.79,2882.4
+Nylon Grade-1,Nylon,5540.15,5907.98,660.89,64.84
+Vanadium Grade-36,Vanadium,9470.38,3605.24,3754.32,2715.46
+Polypropylene Grade-14,Polypropylene,4133.01,6743.63,2587.62,524.82
+Steel Alloy Grade-40,Steel Alloy,8349.3,2590.22,948.54,2409.0
+Glass Grade-30,Glass,6450.65,1475.71,3375.17,789.53
+Graphene Grade-32,Graphene,9515.93,4087.6,3373.24,741.87
+Zirconia Grade-40,Zirconia,708.32,2582.61,2455.53,1018.62
+Graphene Grade-10,Graphene,5660.3,4155.25,1616.53,1313.51
+Steel Grade-21,Steel,2470.04,2840.37,3712.35,1336.57
+Nylon Grade-9,Nylon,6799.33,3852.38,2426.29,1363.81
+GFRP Grade-42,GFRP,6070.6,8544.97,4300.77,463.0
+Cast Iron Grade-47,Cast Iron,8864.61,1506.22,424.15,104.96
+Molybdenum Grade-41,Molybdenum,322.6,6154.65,2056.01,1790.61
+Cast Iron Grade-35,Cast Iron,8941.03,5766.41,3287.19,488.47
+PTFE Grade-15,PTFE,8915.57,6225.56,4293.11,444.95
+Molybdenum Grade-33,Molybdenum,915.54,4149.47,103.42,754.7
+CFRP Grade-49,CFRP,5146.71,4906.89,937.59,2848.7
+Fiberglass Grade-48,Fiberglass,7322.99,9440.59,251.04,2296.34
+Steel Alloy Grade-5,Steel Alloy,2651.66,2955.27,3359.83,1577.76
+Nylon Grade-25,Nylon,4702.58,4984.36,280.82,2942.74
+Silicon Carbide Grade-7,Silicon Carbide,7040.62,5598.07,4156.92,2512.87
+Cast Iron Grade-38,Cast Iron,5448.51,2401.9,3286.04,1127.63
+Copper Grade-34,Copper,2524.1,9748.68,1154.13,1247.23
+Polypropylene Grade-32,Polypropylene,7928.86,8962.32,83.65,2652.0
+Molybdenum Grade-42,Molybdenum,2816.01,2184.76,829.76,1825.96
+Carbon Fiber Grade-43,Carbon Fiber,2311.93,8263.35,3615.55,1470.47
+Ceramic Matrix Grade-31,Ceramic Matrix,2115.72,2285.98,4175.32,116.22
+Quartz Grade-38,Quartz,1620.52,6592.88,244.96,1738.19
+Cast Iron Grade-12,Cast Iron,5171.72,4531.98,4847.79,1930.99
+Zirconia Grade-6,Zirconia,2174.55,6381.22,2384.03,1470.92
+Steel Alloy Grade-27,Steel Alloy,6012.78,8111.08,4111.42,586.56
+Molybdenum Grade-17,Molybdenum,1686.37,7108.38,4615.72,1809.77
+Copper Grade-15,Copper,3788.95,2018.96,132.97,1592.0
+HDPE Grade-10,HDPE,6059.45,2434.75,4513.06,1819.45
+Vanadium Grade-33,Vanadium,7526.56,1660.07,3314.33,2710.86
+Rubber Grade-34,Rubber,4213.21,8848.76,3503.63,1315.42
+Ceramic Matrix Grade-50,Ceramic Matrix,3819.17,6220.48,3720.16,2296.54
+Rubber Grade-9,Rubber,2553.38,7846.6,4555.01,297.26
+Epoxy Grade-1,Epoxy,7094.69,8063.32,2911.46,397.59
+Steel Grade-25,Steel,6549.26,7128.39,1614.4,1118.7
+Fiberglass Grade-28,Fiberglass,6519.59,3135.66,4282.28,1299.51
+Ceramic Grade-44,Ceramic,3981.17,2676.37,2783.37,1694.81
+Polypropylene Grade-50,Polypropylene,7058.19,7569.99,4282.39,1994.88
+CFRP Grade-7,CFRP,2153.22,4486.96,1725.93,1674.2
+PVC Grade-41,PVC,63.85,1640.74,770.23,2781.29
+Rubber Grade-6,Rubber,651.1,2842.62,447.12,161.38
+Carbon Nanotubes Grade-4,Carbon Nanotubes,9457.76,8346.64,3219.8,1344.97
+Epoxy Grade-43,Epoxy,9308.35,5568.46,1014.8,2362.68
+Molybdenum Grade-34,Molybdenum,6987.81,6460.9,3386.75,1111.23
+Steel Grade-11,Steel,878.47,3340.79,2027.8,2025.5
+Epoxy Grade-34,Epoxy,164.5,7274.21,4600.01,1671.3
+Glass Grade-38,Glass,3488.12,9662.36,1419.44,1838.77
+PTFE Grade-37,PTFE,57.46,2412.79,2556.37,1697.96
+Cast Iron Grade-45,Cast Iron,4433.82,4271.01,2444.48,767.66
+Metal Matrix Grade-44,Metal Matrix,4613.14,6200.04,186.36,392.99
+Copper Grade-25,Copper,6340.65,9946.64,3401.04,728.29
+Silicon Carbide Grade-27,Silicon Carbide,9554.95,5553.29,99.12,2504.92
+Stainless Steel Grade-19,Stainless Steel,940.07,6999.0,4114.5,274.29
+GFRP Grade-31,GFRP,3146.28,2813.15,2890.3,589.21
+Epoxy Grade-16,Epoxy,7357.2,8829.61,1074.35,648.16
+Stainless Steel Grade-40,Stainless Steel,3567.36,7966.9,644.28,281.54
+Vanadium Grade-3,Vanadium,8481.78,4216.89,1612.0,2699.46
+Quartz Grade-18,Quartz,4913.65,9856.48,4584.32,876.79
+Steel Alloy Grade-49,Steel Alloy,5771.31,1301.0,4006.59,1461.04
+Molybdenum Grade-23,Molybdenum,3943.84,7115.26,916.09,2930.7
+Silicon Carbide Grade-45,Silicon Carbide,95.09,7002.73,1928.79,347.21
+Glass Grade-17,Glass,2379.78,5137.96,3085.15,1129.48
+Tungsten Grade-28,Tungsten,2114.01,7247.45,1893.56,2570.26
+GFRP Grade-37,GFRP,1320.95,6099.49,1182.18,344.62
+Ceramic Grade-16,Ceramic,5558.29,8678.47,1021.32,2410.11
+Fiberglass Grade-31,Fiberglass,8058.82,2427.26,2523.51,2986.91
+Silicon Carbide Grade-32,Silicon Carbide,3008.04,5972.99,2861.21,1225.29
+Aluminum Alloy Grade-17,Aluminum Alloy,4771.15,6595.84,2277.33,1037.24
+Nylon Grade-24,Nylon,5608.34,9373.17,1326.43,108.51
+Carbon Nanotubes Grade-13,Carbon Nanotubes,5773.19,6779.81,2715.73,2939.15
+Zirconia Grade-23,Zirconia,3258.33,5497.56,3885.21,1368.44
+Brass Grade-25,Brass,6140.89,5068.13,4785.19,2611.36
+Polymer Grade-27,Polymer,6316.79,6060.35,4252.21,260.47
+CFRP Grade-22,CFRP,2290.67,3717.33,1492.92,839.04
+Nylon Grade-48,Nylon,5873.74,9682.94,2099.83,592.46
+Aluminum Grade-9,Aluminum,7280.72,6891.62,4705.22,2117.06
+Brass Grade-14,Brass,1678.27,1750.38,366.71,2642.14
+Aluminum Grade-50,Aluminum,3976.76,7838.67,463.01,824.23
+Fiberglass Grade-6,Fiberglass,6552.12,8946.68,1582.08,779.82
+Zirconia Grade-29,Zirconia,6268.92,2010.36,4200.82,134.29
+Polypropylene Grade-21,Polypropylene,8643.9,5099.78,4361.08,2807.83
+Glass Grade-29,Glass,1360.66,9526.23,2719.93,1792.95
+Quartz Grade-28,Quartz,5239.84,6684.74,1583.51,1074.15
+Vanadium Grade-15,Vanadium,8049.23,4866.79,1861.26,816.43
+Aramid Grade-23,Aramid,2875.47,5724.3,3454.77,1501.2
+Ceramic Matrix Grade-20,Ceramic Matrix,102.23,4761.71,1500.67,732.09
+Steel Grade-36,Steel,3743.33,4589.73,2825.18,1214.52
+CFRP Grade-46,CFRP,7374.07,4387.28,1923.49,825.79
+Stainless Steel Grade-34,Stainless Steel,7647.97,9171.85,4047.69,2069.69
+Vanadium Grade-18,Vanadium,4135.5,8652.47,953.73,904.31
+Metal Matrix Grade-40,Metal Matrix,4533.69,7245.25,2485.89,995.9
+Fiberglass Grade-4,Fiberglass,9697.5,1006.54,4863.07,882.24
+Composite Grade-47,Composite,92.95,1632.54,123.87,690.7
+HDPE Grade-20,HDPE,7859.61,5386.75,1889.04,2105.96
+Titanium Grade-22,Titanium,812.35,7705.99,773.99,836.19
+Vanadium Grade-31,Vanadium,1825.04,9040.74,1288.64,1175.65
+Stainless Steel Grade-25,Stainless Steel,7714.77,4876.91,3701.48,148.86
+Metal Matrix Grade-48,Metal Matrix,7712.48,5595.92,4911.49,1444.84
+CFRP Grade-41,CFRP,7285.36,7652.23,2770.87,410.32
+Aluminum Alloy Grade-8,Aluminum Alloy,2368.06,4795.98,125.57,2393.45
+PTFE Grade-16,PTFE,100.2,1189.21,3928.42,1452.05
+Nylon Grade-50,Nylon,904.81,2253.35,503.35,1875.0
+Nickel Grade-4,Nickel,3562.27,2218.59,2705.41,366.81
+Silicon Carbide Grade-36,Silicon Carbide,7887.94,7762.35,4037.55,1344.22
+Aramid Grade-17,Aramid,8987.75,5266.32,2216.19,919.41
+Quartz Grade-12,Quartz,5441.23,3779.89,2369.09,2609.6
+Carbon Nanotubes Grade-36,Carbon Nanotubes,1612.67,5687.87,2275.0,2467.28
+Metal Matrix Grade-1,Metal Matrix,7761.64,5456.29,3681.87,2654.65
+Tungsten Grade-50,Tungsten,5519.61,6441.12,1647.55,1940.67
+Chromium Grade-43,Chromium,677.06,8484.27,693.25,2626.8
+Epoxy Grade-7,Epoxy,4859.36,1711.24,2876.94,2517.08
+Graphene Grade-17,Graphene,501.32,2832.99,3603.62,88.6
+Aluminum Alloy Grade-42,Aluminum Alloy,4919.65,8986.19,446.71,2413.01
+Nickel Grade-24,Nickel,5585.06,9432.03,2109.55,1138.75
+Nickel Grade-40,Nickel,2666.23,1176.89,399.35,946.52
+Steel Alloy Grade-35,Steel Alloy,3860.07,2579.12,3301.88,1731.58
+GFRP Grade-36,GFRP,7494.7,4621.45,573.19,1933.94
+Polypropylene Grade-44,Polypropylene,4593.16,6921.23,4420.1,542.09
+PTFE Grade-33,PTFE,3382.42,2257.75,4992.25,1356.89
+Glass Grade-21,Glass,8450.25,4595.32,3184.91,2487.16
+Silicon Carbide Grade-39,Silicon Carbide,2415.58,5821.12,1907.19,1673.2
+Cast Iron Grade-24,Cast Iron,9616.94,4918.66,2016.2,2192.62
+Zirconia Grade-39,Zirconia,173.85,2045.38,4457.22,69.38
+Steel Alloy Grade-14,Steel Alloy,8558.79,1002.59,4118.78,2084.67
+Ceramic Grade-36,Ceramic,5118.09,6051.44,2879.91,328.15
+Metal Matrix Grade-23,Metal Matrix,1570.35,3240.1,4453.76,787.08
+Cast Iron Grade-20,Cast Iron,929.04,4479.94,4593.6,2216.08
+Silicon Carbide Grade-31,Silicon Carbide,1738.12,8397.01,3463.81,1749.89
+Bronze Grade-39,Bronze,6426.48,1146.71,4051.48,1175.56
+Nickel Grade-50,Nickel,3351.22,8894.45,2200.37,2794.23
+PVC Grade-4,PVC,3055.48,1181.75,2723.11,491.26
+Steel Alloy Grade-10,Steel Alloy,515.64,7531.33,1995.38,1364.57
+Carbon Nanotubes Grade-37,Carbon Nanotubes,5052.74,2845.52,1485.14,1213.25
+Quartz Grade-48,Quartz,503.57,4474.36,472.06,1530.38
+Glass Grade-13,Glass,4884.24,6801.73,1021.5,1867.19
+Stainless Steel Grade-5,Stainless Steel,2670.64,4758.31,3439.77,1749.25
+HDPE Grade-28,HDPE,3659.66,2554.93,1756.05,1983.46
+Titanium Grade-15,Titanium,2005.66,4241.03,3801.02,2565.65
+Carbon Fiber Grade-48,Carbon Fiber,555.78,9530.41,4637.39,2612.82
+Zirconia Grade-1,Zirconia,3439.94,8199.97,1561.03,1440.01
+Polymer Grade-14,Polymer,7402.99,2751.62,2755.25,2263.55
+Fiberglass Grade-45,Fiberglass,6990.87,972.12,2936.29,2007.41
+Titanium Grade-17,Titanium,1712.32,3415.07,3956.69,1873.0
+Nickel Grade-30,Nickel,6551.38,879.65,1974.4,850.37
+Aluminum Grade-19,Aluminum,8675.56,6775.63,1195.05,1173.07
+Bronze Grade-21,Bronze,4852.29,6294.59,486.61,636.68
+Aluminum Grade-3,Aluminum,2482.2,5672.03,1701.84,1210.53
+CFRP Grade-2,CFRP,3474.98,4039.54,3145.27,746.8
+Nickel Grade-41,Nickel,2584.96,4363.81,4999.76,2971.57
+Glass Grade-18,Glass,2264.35,3946.41,1995.2,454.92
+Stainless Steel Grade-37,Stainless Steel,1536.81,9729.03,4553.28,1021.39
+Vanadium Grade-9,Vanadium,2076.3,2077.49,2730.16,2410.31
+Aramid Grade-20,Aramid,6888.75,9067.82,4552.43,1318.69
+Fiberglass Grade-42,Fiberglass,9331.04,9237.68,1622.29,1694.15
+Carbon Fiber Grade-12,Carbon Fiber,3183.48,8893.03,3649.32,2308.03
+HDPE Grade-27,HDPE,3041.14,7660.37,4117.59,1928.7
+Ceramic Grade-10,Ceramic,7793.51,1784.98,965.31,2299.22
+Ceramic Grade-39,Ceramic,5675.19,2926.69,1200.07,2077.76
+Polypropylene Grade-6,Polypropylene,6884.84,5186.31,2537.0,1833.9
+Nylon Grade-12,Nylon,8522.92,5322.83,731.55,620.12
+Titanium Grade-27,Titanium,7647.98,941.09,1386.53,1268.48
+Epoxy Grade-49,Epoxy,2054.37,2431.59,4775.81,1345.89
+Tungsten Grade-45,Tungsten,3256.38,5011.04,1272.33,1244.36
+Titanium Grade-39,Titanium,7356.23,4301.3,1599.53,1853.94
+Vanadium Grade-34,Vanadium,6417.88,7278.72,241.6,372.48
+Metal Matrix Grade-3,Metal Matrix,8779.14,3062.9,2712.91,2952.3
+Nickel Grade-13,Nickel,2919.59,4463.77,1558.24,2491.48
+Rubber Grade-19,Rubber,6135.6,1304.67,2609.48,469.61
+GFRP Grade-50,GFRP,5859.04,9028.13,2755.17,1209.55
+Silicon Carbide Grade-29,Silicon Carbide,259.85,4975.5,4488.36,2692.59
+Cast Iron Grade-21,Cast Iron,6920.57,9146.17,3992.81,2169.21
+Carbon Fiber Grade-46,Carbon Fiber,4500.04,4140.99,2643.37,1183.06
+Molybdenum Grade-40,Molybdenum,9498.09,4285.71,1934.62,2316.37
+Polymer Grade-37,Polymer,8714.47,8737.0,853.35,476.59
+Nickel Grade-27,Nickel,3088.23,7518.3,4806.82,901.9
+Aramid Grade-13,Aramid,46.29,7842.35,111.42,1518.0
+Steel Grade-39,Steel,8828.32,2990.77,2965.28,1453.35
+Stainless Steel Grade-36,Stainless Steel,2789.07,6584.56,4109.78,662.53
+GFRP Grade-10,GFRP,561.03,4012.94,770.46,145.67
+Alumina Grade-22,Alumina,9204.72,1253.94,2114.52,575.83
+Glass Grade-12,Glass,9663.3,7694.63,1833.57,155.73
+Copper Grade-49,Copper,4279.54,5865.68,1500.23,446.91
+Ceramic Grade-22,Ceramic,5275.73,5628.17,3494.66,1855.56
+Bronze Grade-37,Bronze,7300.26,6587.72,4936.6,1476.81
+Carbon Nanotubes Grade-46,Carbon Nanotubes,2879.71,6402.54,1617.3,1599.9
+Polypropylene Grade-9,Polypropylene,6147.14,5368.36,3659.74,1518.34
+Steel Alloy Grade-46,Steel Alloy,2912.69,2583.13,636.01,1421.41
+Aluminum Alloy Grade-40,Aluminum Alloy,9989.88,4610.94,1702.94,1703.23
+Aluminum Alloy Grade-1,Aluminum Alloy,6410.14,7149.09,1310.11,250.12
+Polymer Grade-22,Polymer,3967.14,6035.37,4802.6,2504.53
+Polymer Grade-44,Polymer,4796.81,5166.98,226.98,450.47
+Fiberglass Grade-41,Fiberglass,4612.11,8760.47,4484.95,1414.29
+HDPE Grade-48,HDPE,570.61,5595.31,2846.9,2050.68
+Glass Grade-35,Glass,197.98,6113.33,1692.68,2752.75
+Fiberglass Grade-18,Fiberglass,8409.14,3922.18,1908.07,1626.11
+CFRP Grade-37,CFRP,6061.23,2526.32,629.26,2357.91
+Titanium Grade-18,Titanium,4145.14,5374.41,1227.09,1383.12
+Alumina Grade-14,Alumina,5256.23,2412.59,1902.99,160.32
+Composite Grade-33,Composite,260.07,5242.05,2525.77,611.12
+Ceramic Matrix Grade-47,Ceramic Matrix,8740.18,3657.37,1671.0,2319.97
+PVC Grade-46,PVC,8649.59,1868.34,1590.05,179.89
+Polymer Grade-30,Polymer,8893.08,1751.24,3842.83,2249.39
+Aluminum Grade-37,Aluminum,7587.59,6678.51,1089.53,641.64
+Zirconia Grade-18,Zirconia,5327.9,7910.32,3372.39,854.33
+CFRP Grade-18,CFRP,1154.34,9616.47,2820.59,352.01
+Zirconia Grade-37,Zirconia,2456.56,1458.22,3086.04,1049.28
+Composite Grade-4,Composite,1310.31,5132.36,3394.03,362.48
+Rubber Grade-26,Rubber,1798.86,6285.53,2984.55,2516.71
+Polymer Grade-13,Polymer,7132.14,6972.99,2691.22,2922.36
+Metal Matrix Grade-37,Metal Matrix,1327.5,8278.79,4602.54,1431.41
+Metal Matrix Grade-20,Metal Matrix,6848.25,7334.86,2354.25,733.5
+PTFE Grade-12,PTFE,6999.45,6920.67,3954.67,2653.09
+Metal Matrix Grade-32,Metal Matrix,313.31,5174.65,1790.28,1410.66
+CFRP Grade-19,CFRP,7681.97,6362.04,681.47,353.65
+Glass Grade-42,Glass,719.46,3581.58,2332.36,1792.08
+CFRP Grade-31,CFRP,3844.94,3936.55,4079.07,1793.36
+Rubber Grade-37,Rubber,7875.61,5811.01,1219.73,2004.71
+Copper Grade-48,Copper,9309.39,6083.81,2459.33,1796.88
+Metal Matrix Grade-21,Metal Matrix,5555.77,8363.15,922.89,2869.86
+Aluminum Alloy Grade-9,Aluminum Alloy,8873.86,9110.25,3199.22,50.54
+Quartz Grade-29,Quartz,1965.51,7070.91,1617.84,1732.32
+Alumina Grade-28,Alumina,7181.02,9219.34,4951.94,1769.04
+Molybdenum Grade-26,Molybdenum,8478.04,8643.49,359.87,2708.17
+Nickel Grade-1,Nickel,7036.8,8351.47,1828.9,2590.68
+Graphene Grade-26,Graphene,6256.27,7349.18,2060.46,1333.81
+Aluminum Alloy Grade-43,Aluminum Alloy,1743.19,2082.02,2799.78,2537.82
+Nylon Grade-27,Nylon,1551.98,9976.6,3367.16,446.12
+Copper Grade-42,Copper,167.91,7437.16,2459.68,1338.37
+Molybdenum Grade-28,Molybdenum,5525.43,4942.07,1809.42,598.08
+Stainless Steel Grade-46,Stainless Steel,5022.77,4581.48,2753.98,1132.56
+Ceramic Matrix Grade-46,Ceramic Matrix,3692.73,6139.73,4810.64,286.19
+Chromium Grade-49,Chromium,7791.13,5079.02,438.18,2675.25
+Vanadium Grade-38,Vanadium,3132.56,1288.36,1751.21,2346.66
+Ceramic Matrix Grade-30,Ceramic Matrix,5131.99,5118.53,3682.65,1292.0
+Zirconia Grade-19,Zirconia,1684.24,7195.39,3008.7,947.01
+Quartz Grade-17,Quartz,624.5,5154.66,887.77,202.28
+Zirconia Grade-48,Zirconia,6247.3,3440.84,459.34,1541.51
+Ceramic Grade-17,Ceramic,1334.93,3387.1,4296.54,91.9
+Carbon Fiber Grade-39,Carbon Fiber,1755.22,6245.51,798.97,1367.63
+GFRP Grade-17,GFRP,7827.67,2975.29,945.82,1605.8
+Brass Grade-10,Brass,5959.89,8360.39,4196.35,2270.65
+PVC Grade-16,PVC,6610.41,7480.01,878.88,1754.38
+Polypropylene Grade-4,Polypropylene,6426.55,7751.19,625.06,544.42
+PTFE Grade-31,PTFE,3021.36,7665.35,3774.77,1620.94
+PVC Grade-31,PVC,2634.36,5681.48,2202.5,901.94
+Silicon Carbide Grade-34,Silicon Carbide,6832.25,1180.24,4592.76,1930.4
+Rubber Grade-40,Rubber,9181.32,8697.3,1708.75,837.91
+Metal Matrix Grade-50,Metal Matrix,6756.48,3026.81,3376.18,2322.97
+Chromium Grade-22,Chromium,6780.73,9937.6,1601.37,81.21
+Steel Grade-5,Steel,130.48,1701.54,565.24,1365.53
+Steel Alloy Grade-47,Steel Alloy,2840.85,2578.75,168.29,321.23
+Carbon Nanotubes Grade-43,Carbon Nanotubes,8940.84,2797.14,3017.36,409.28
+PVC Grade-43,PVC,7641.18,6761.79,4026.04,595.07
+Carbon Fiber Grade-45,Carbon Fiber,1851.6,3512.15,3319.7,273.36
+Copper Grade-18,Copper,7773.51,4323.6,1697.31,227.17
+Tungsten Grade-7,Tungsten,1448.14,7872.8,1131.79,1947.85
+Composite Grade-46,Composite,2598.11,1123.62,399.47,2196.26
+Composite Grade-2,Composite,8966.26,2172.01,3220.02,2802.04
+Polymer Grade-26,Polymer,5751.08,5542.98,4702.62,1497.5
+Copper Grade-35,Copper,2266.98,4338.55,3462.15,2350.5
+Alumina Grade-26,Alumina,562.34,9972.55,3253.37,1127.8
+Polymer Grade-6,Polymer,8413.56,7796.89,1486.01,649.21
+Glass Grade-3,Glass,9675.49,6879.77,1530.11,1200.81
+Composite Grade-48,Composite,1903.56,1131.32,176.53,2989.33
+Stainless Steel Grade-32,Stainless Steel,3894.4,8093.82,3235.22,1524.07
+Nickel Grade-22,Nickel,7880.12,1196.77,635.91,2430.96
+Vanadium Grade-10,Vanadium,7413.36,2945.77,407.49,2219.61
+Aluminum Grade-31,Aluminum,9072.81,6490.17,1252.04,1963.92
+Steel Grade-12,Steel,6330.66,9123.18,4112.84,337.01
+CFRP Grade-38,CFRP,649.87,8321.28,616.08,1805.18
+Epoxy Grade-28,Epoxy,3380.72,8490.74,3703.01,1235.93
+Carbon Fiber Grade-44,Carbon Fiber,5764.33,2066.02,4190.48,2389.65
+Titanium Grade-38,Titanium,1743.57,1384.45,1406.5,2284.77
+Steel Grade-1,Steel,1803.16,1622.83,3276.54,2666.4
+Ceramic Grade-34,Ceramic,4510.24,3003.42,914.84,2090.44
+Carbon Nanotubes Grade-12,Carbon Nanotubes,7175.1,6432.02,486.62,2488.13
+Alumina Grade-23,Alumina,4194.25,5932.26,1000.73,2960.48
+Bronze Grade-40,Bronze,3626.03,7803.1,2722.09,696.86
+Carbon Fiber Grade-10,Carbon Fiber,6855.9,9710.97,2398.87,570.16
+Titanium Grade-4,Titanium,6452.51,3424.74,2202.19,1036.17
+Nickel Grade-35,Nickel,1767.94,8027.17,2451.57,392.39
+Stainless Steel Grade-47,Stainless Steel,4454.32,6135.07,2124.96,2253.91
+Silicon Carbide Grade-15,Silicon Carbide,7792.18,3802.44,536.32,2226.36
+Epoxy Grade-25,Epoxy,8914.85,1479.25,2946.62,210.3
+Rubber Grade-10,Rubber,2170.27,6407.96,932.22,1151.78
+Epoxy Grade-41,Epoxy,3592.96,3283.38,1713.33,144.68
+Carbon Fiber Grade-30,Carbon Fiber,4591.74,2377.54,1751.36,2664.91
+Carbon Nanotubes Grade-11,Carbon Nanotubes,7897.78,6670.68,3077.45,551.31
+Glass Grade-15,Glass,874.79,8684.59,2472.12,2987.21
+Steel Grade-47,Steel,4287.39,8828.29,1277.52,1331.03
+Steel Alloy Grade-38,Steel Alloy,9463.11,9206.8,4496.45,1282.43
+Titanium Grade-3,Titanium,9912.83,7548.78,2546.37,1305.81
+Tungsten Grade-16,Tungsten,841.0,7729.06,3481.45,1249.52
+Polypropylene Grade-19,Polypropylene,2398.99,9990.36,129.84,2023.66
+Metal Matrix Grade-30,Metal Matrix,7720.86,8843.01,2057.13,2380.08
+Nylon Grade-41,Nylon,4648.85,6628.4,4309.03,258.56
+Rubber Grade-49,Rubber,2705.93,9504.24,2735.51,2393.71
+Brass Grade-40,Brass,8809.78,7569.79,322.26,2838.7
+Carbon Fiber Grade-25,Carbon Fiber,3662.89,6497.17,1860.21,567.04
+Vanadium Grade-8,Vanadium,6494.24,7584.68,3774.02,2619.84
+Steel Alloy Grade-21,Steel Alloy,3534.24,3261.89,3417.44,867.58
+Polypropylene Grade-29,Polypropylene,4867.92,5646.9,658.29,2143.98
+Copper Grade-13,Copper,8920.22,5014.07,447.76,2698.94
+Bronze Grade-11,Bronze,2767.39,7214.06,2507.33,2631.23
+Chromium Grade-41,Chromium,237.65,4633.89,3428.21,2798.58
+Epoxy Grade-5,Epoxy,231.12,8178.89,4183.16,1582.88
+Graphene Grade-22,Graphene,6561.39,8039.42,2456.95,2014.27
+Chromium Grade-36,Chromium,4458.67,3599.65,704.04,2378.58
+CFRP Grade-17,CFRP,2276.32,4223.39,1477.04,2544.27
+Fiberglass Grade-23,Fiberglass,2851.69,9597.3,3112.6,524.33
+Stainless Steel Grade-8,Stainless Steel,422.06,3715.01,676.92,818.2
+Titanium Grade-43,Titanium,3176.95,3965.36,1896.56,1642.61
+CFRP Grade-35,CFRP,3023.28,9268.23,2053.18,1523.28
+Fiberglass Grade-30,Fiberglass,9278.91,2238.22,4852.27,1661.13
+Molybdenum Grade-22,Molybdenum,6476.32,3521.24,4485.19,2910.34
+Aramid Grade-44,Aramid,5514.54,3636.43,2038.67,2530.59
+Composite Grade-23,Composite,934.79,1309.14,3224.86,1771.12
+Steel Alloy Grade-50,Steel Alloy,2787.21,1010.38,2715.6,1364.1
+PTFE Grade-13,PTFE,4910.26,6350.37,2582.69,215.34
+Nylon Grade-26,Nylon,1488.83,8655.44,1880.3,1149.85
+Composite Grade-36,Composite,886.02,7497.07,2249.45,2978.16
+Composite Grade-19,Composite,1647.1,7498.42,4493.83,2199.39
+HDPE Grade-9,HDPE,8356.92,6302.21,761.87,944.53
+Copper Grade-38,Copper,7563.82,1616.46,2077.42,2747.51
+HDPE Grade-12,HDPE,5563.02,7335.14,3788.7,453.93
+GFRP Grade-25,GFRP,2902.45,5314.92,4123.03,940.88
+Tungsten Grade-36,Tungsten,7401.42,2867.91,3966.75,504.37
+Alumina Grade-41,Alumina,8344.25,5148.96,3286.72,2683.43
+Stainless Steel Grade-2,Stainless Steel,1203.23,3352.57,4971.95,246.84
+Ceramic Matrix Grade-37,Ceramic Matrix,4366.89,3175.01,3445.58,2924.06
+Molybdenum Grade-47,Molybdenum,5757.31,8577.04,856.93,222.61
+Silicon Carbide Grade-30,Silicon Carbide,8784.51,2049.17,859.22,854.38
+HDPE Grade-41,HDPE,9122.01,4076.99,1485.5,1612.36
+Epoxy Grade-50,Epoxy,6284.39,7835.85,3014.28,543.05
+Polypropylene Grade-10,Polypropylene,139.83,5568.62,1897.05,1480.45
