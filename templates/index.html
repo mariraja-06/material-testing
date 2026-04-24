@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Material Selector</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f0f4f8;
+      color: #1a202c;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #1a365d;
+      color: #fff;
+      padding: 1.5rem 2rem;
+    }
+    header h1 { font-size: 1.6rem; font-weight: 600; }
+    header p  { font-size: 0.9rem; color: #90cdf4; margin-top: 4px; }
+
+    .container { max-width: 960px; margin: 2rem auto; padding: 0 1.5rem; }
+
+    /* ── Form card ── */
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 1.75rem;
+      margin-bottom: 1.5rem;
+    }
+    .card h2 { font-size: 1.1rem; font-weight: 600; color: #2d3748; margin-bottom: 1.2rem; }
+
+    .form-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.2rem;
+    }
+    .form-group label {
+      display: block;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #4a5568;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .form-group input {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1.5px solid #e2e8f0;
+      border-radius: 7px;
+      font-size: 0.95rem;
+      color: #2d3748;
+      transition: border-color 0.2s;
+    }
+    .form-group input:focus {
+      outline: none;
+      border-color: #3182ce;
+      box-shadow: 0 0 0 3px rgba(49,130,206,0.15);
+    }
+    .hint { font-size: 0.75rem; color: #718096; margin-top: 4px; }
+
+    .btn-submit {
+      background: #2b6cb0;
+      color: #fff;
+      border: none;
+      padding: 11px 32px;
+      border-radius: 7px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .btn-submit:hover { background: #2c5282; }
+
+    /* ── Alert ── */
+    .alert {
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      margin-bottom: 1.2rem;
+    }
+    .alert-error   { background: #fff5f5; border: 1px solid #fc8181; color: #9b2c2c; }
+    .alert-warning { background: #fffbeb; border: 1px solid #f6ad55; color: #744210; }
+    .alert-success { background: #f0fff4; border: 1px solid #68d391; color: #22543d; }
+
+    /* ── Results table ── */
+    .results-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+    }
+    .results-header h2 { font-size: 1.1rem; font-weight: 600; color: #2d3748; }
+
+    .badge {
+      font-size: 0.75rem;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-weight: 600;
+    }
+    .badge-blue   { background: #ebf8ff; color: #2b6cb0; }
+    .badge-orange { background: #fffbeb; color: #c05621; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+    thead tr { background: #edf2f7; }
+    th {
+      padding: 10px 14px;
+      text-align: left;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #4a5568;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    td { padding: 10px 14px; border-bottom: 1px solid #e2e8f0; color: #2d3748; }
+    tbody tr:hover { background: #f7fafc; }
+    tbody tr:first-child td { font-weight: 600; }
+
+    .rank-cell { font-weight: 700; color: #2b6cb0; }
+    .rank-1 { color: #d69e2e; }
+    .rank-2 { color: #718096; }
+    .rank-3 { color: #9c6644; }
+
+    .score-bar-wrap {
+      background: #e2e8f0;
+      border-radius: 4px;
+      height: 8px;
+      width: 90px;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 6px;
+    }
+    .score-bar {
+      background: #3182ce;
+      border-radius: 4px;
+      height: 100%;
+    }
+
+    /* ── Chart ── */
+    .chart-wrap { position: relative; height: 320px; }
+
+    /* ── Empty state ── */
+    .empty {
+      text-align: center;
+      padding: 2.5rem;
+      color: #718096;
+      font-size: 0.95rem;
+    }
+    .empty-icon { font-size: 2.5rem; margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>⚙ Material Selector</h1>
+  <p>Find the best material for your engineering requirements</p>
+</header>
+
+<div class="container">
+
+  <!-- Input form -->
+  <div class="card">
+    <h2>Enter Your Requirements</h2>
+    
+    <!-- Data ranges info -->
+    <div style="background: #f7fafc; border: 1px solid #cbd5e0; border-radius: 6px; padding: 12px 14px; margin-bottom: 1.5rem; font-size: 0.85rem; color: #4a5568;">
+      <strong>📊 Dataset Ranges (1000 materials):</strong><br>
+      • Strength: 24–9994 MPa<br>
+      • Density: 827–9996 kg/m³<br>
+      • Temperature: 59–5000 °C
+    </div>
+    
+    <form method="POST" action="/">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>Target Strength</label>
+          <input type="number" name="strength" step="any"
+                 placeholder="e.g. 200"
+                 value="{{ request.form.get('strength', '') }}" required>
+          <div class="hint">MPa — materials within ±100 of this value</div>
+        </div>
+        <div class="form-group">
+          <label>Target Density</label>
+          <input type="number" name="density" step="any"
+                 placeholder="e.g. 5000"
+                 value="{{ request.form.get('density', '') }}" required>
+          <div class="hint">kg/m³ — materials within ±100 of this value</div>
+        </div>
+        <div class="form-group">
+          <label>Target Temperature</label>
+          <input type="number" name="temperature" step="any"
+                 placeholder="e.g. 300"
+                 value="{{ request.form.get('temperature', '') }}" required>
+          <div class="hint">°C — materials within ±100 of this value</div>
+        </div>
+      </div>
+      <button class="btn-submit" type="submit">Find Best Materials →</button>
+    </form>
+  </div>
+
+  <!-- Error -->
+  {% if error %}
+  <div class="alert alert-error">⚠ {{ error }}</div>
+  {% endif %}
+
+  <!-- Results -->
+  {% if searched %}
+
+    {% if results %}
+    <div class="alert alert-success">
+      ✓ Showing the 5 closest materials to your targets, ranked by score.
+    </div>
+    {% endif %}
+
+    {% if results %}
+    <!-- Table -->
+    <div class="card">
+      <div class="results-header">
+        <h2>Top {{ results|length }} Materials</h2>
+        <span class="badge badge-blue">Closest matches</span>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Material</th>
+            <th>Strength (MPa)</th>
+            <th>Density (kg/m³)</th>
+            <th>Temperature (°C)</th>
+            <th>Cost (Rs/kg)</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for m in results %}
+          <tr>
+            <td class="rank-cell rank-{{ loop.index }}">
+              {% if loop.index == 1 %}🥇
+              {% elif loop.index == 2 %}🥈
+              {% elif loop.index == 3 %}🥉
+              {% else %}#{{ loop.index }}
+              {% endif %}
+            </td>
+            <td>{{ m.Material }}</td>
+            <td>{{ m.Strength }}</td>
+            <td>{{ m.Density }}</td>
+            <td>{{ m.Temperature }}</td>
+            <td>{{ m.Cost }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Chart -->
+    <div class="card">
+      <h2>Property Comparison — Top {{ results|length }} Materials</h2>
+      <div class="chart-wrap">
+        <canvas id="matChart"></canvas>
+      </div>
+    </div>
+
+    <script>
+      const labels      = {{ chart_data.labels      | tojson }};
+      const strengthArr = {{ chart_data.strength    | tojson }};
+      const densityArr  = {{ chart_data.density     | tojson }};
+      const tempArr     = {{ chart_data.temperature | tojson }};
+
+      new Chart(document.getElementById('matChart'), {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              label: 'Strength (MPa)',
+              data: strengthArr,
+              backgroundColor: 'rgba(49, 130, 206, 0.75)',
+              borderColor: '#2b6cb0',
+              borderWidth: 1,
+              borderRadius: 4,
+            },
+            {
+              label: 'Density (g/cm³)',
+              data: densityArr,
+              backgroundColor: 'rgba(237, 137, 54, 0.75)',
+              borderColor: '#c05621',
+              borderWidth: 1,
+              borderRadius: 4,
+            },
+            {
+              label: 'Temperature (°C)',
+              data: tempArr,
+              backgroundColor: 'rgba(72, 187, 120, 0.75)',
+              borderColor: '#276749',
+              borderWidth: 1,
+              borderRadius: 4,
+            },
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top' },
+            tooltip: { mode: 'index', intersect: false }
+          },
+          scales: {
+            x: { grid: { display: false } },
+            y: { beginAtZero: true, grid: { color: '#e2e8f0' } }
+          }
+        }
+      });
+    </script>
+
+    {% else %}
+    <div class="card">
+      <div class="empty">
+        <div class="empty-icon">🔍</div>
+        No results to display. Please adjust your requirements.
+      </div>
+    </div>
+    {% endif %}
+
+  {% endif %}
+</div>
+
+</body>
+</html>
